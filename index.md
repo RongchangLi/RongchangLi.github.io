@@ -12,3 +12,5 @@ My research interests include computer vision and pattern recognition, e.g., act
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/awards.md %}
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=yZwbqQJRVChmKAmIEufvwNEMxg5Wl7ndq4Wsphq0QNk&cl=ffffff&w=a"></script>
