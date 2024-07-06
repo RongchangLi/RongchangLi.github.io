@@ -5,10 +5,10 @@ main:
     conference_short: ECCV
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
-    # code: https://github.com/MrGiovanni/ContinualLearning
+    code: https://github.com/RongchangLi/ZSCAR_C2C
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/publications/c2c_eccv2024.jpg
-    notes: Conditionally Accepted
+    image: ./assets/img/publications/c2c_eccv2024.png
+    # notes: Conditionally Accepted
 
   - title: 'Perceiving Actions via Temporal Video Frame Pairs'
     authors:  <strong>Rong-Chang Li</strong>, Tianyang Xu, Xiao-jun Wu, Zhongwei Shen, Josef Kittler
@@ -16,7 +16,7 @@ main:
     conference: ACM Transactions on Intelligent Systems and Technology  <strong>(TIST)</strong>, 2024.
     pdf: https://dl.acm.org/doi/abs/10.1145/3652611
     # code: https://github.com/RongchangLi/AICity2023_DrivingAction
-    image: ./assets/img/publications/mib.png
+    image: ./assets/img/publications/nest_tist.png
 
   - title: 'Action probability calibration for efficient naturalistic driving action localization'
     authors:  <strong>Rong-Chang Li</strong>, Cong Wu, Linze Li, Zhongwei Shen, Tianyang Xu, Xiao-jun Wu, Xi Li, Jiwen Lu, Josef Kittler
@@ -24,7 +24,7 @@ main:
     conference: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition workshop <strong>(CVPRW)</strong>, 2023.
     pdf: https://openaccess.thecvf.com/content/CVPR2023W/AICity/papers/Li_Action_Probability_Calibration_for_Efficient_Naturalistic_Driving_Action_Localization_CVPRW_2023_paper.pdf
     code: https://github.com/RongchangLi/AICity2023_DrivingAction
-    image: ./assets/img/publications/mib.png
+    image: ./assets/img/publications/tal_cvprw.png
 
   - title: 'Dynamic information enhancement for video classification'
     authors:  <strong>Rong-Chang Li</strong>, Xiao-Jun Wu, Cong Wu, Tianyang Xu, Josef Kittler
