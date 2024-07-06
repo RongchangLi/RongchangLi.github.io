@@ -4,20 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at Jiangnan University under the supervision of [Prof. Xiao-Jun Wu](https://scholar.google.co.uk/citations?user=5IST34sAAAAJ&hl=en) and [Prof. Josef Kittler](https://scholar.google.co.uk/citations?user=pk-yb_kAAAAJ&hl=en&oi=ao), and Bachelor degree from Tianjin University in 2019. I was a visiting Ph.D. student at the [Centre for Vision, Speech and Signal Processing (CVSSP)](https://www.surrey.ac.uk/centre-vision-speech-signal-processing), University of Surrey, Guildford, United Kingdom, from 2023 to 2024. 
 
-## Research Interests
+My research interests include computer vision and pattern recognition, e.g., action understanding, video classification, multimodal analysis, and compositional generalization.
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/awards.md %}

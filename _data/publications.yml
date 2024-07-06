@@ -1,22 +1,36 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: 'C2C: Component-to-Composition Learning for Zero-Shot Compositional Action Recognition'
+    authors: <strong>Rongchang Li</strong>, Zhenhua Feng, Tianyang Xu, Linze Li, Xiao-Jun Wu, Muhammad Awais, Sara Ahmed, Josef Kittler  
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/publications/c2c_eccv2024.jpg
+    notes: Conditionally Accepted
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: 'Perceiving Actions via Temporal Video Frame Pairs'
+    authors:  <strong>Rong-Chang Li</strong>, Tianyang Xu, Xiao-jun Wu, Zhongwei Shen, Josef Kittler
+    conference_short: TIST
+    conference: ACM Transactions on Intelligent Systems and Technology  <strong>(TIST)</strong>, 2024.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3652611
+    # code: https://github.com/RongchangLi/AICity2023_DrivingAction
+    image: ./assets/img/publications/mib.png
+
+  - title: 'Action probability calibration for efficient naturalistic driving action localization'
+    authors:  <strong>Rong-Chang Li</strong>, Cong Wu, Linze Li, Zhongwei Shen, Tianyang Xu, Xiao-jun Wu, Xi Li, Jiwen Lu, Josef Kittler
+    conference_short: CVPRW
+    conference: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition workshop <strong>(CVPRW)</strong>, 2023.
+    pdf: https://openaccess.thecvf.com/content/CVPR2023W/AICity/papers/Li_Action_Probability_Calibration_for_Efficient_Naturalistic_Driving_Action_Localization_CVPRW_2023_paper.pdf
+    code: https://github.com/RongchangLi/AICity2023_DrivingAction
+    image: ./assets/img/publications/mib.png
+
+  - title: 'Dynamic information enhancement for video classification'
+    authors:  <strong>Rong-Chang Li</strong>, Xiao-Jun Wu, Cong Wu, Tianyang Xu, Josef Kittler
+    conference_short: IVC
+    conference: Image and Vision Computing <strong>(IVC)</strong>, 2021.
+    pdf: https://www.sciencedirect.com/science/article/pii/S0262885621001499
+    code: https://github.com/RongchangLi/DEN
+    image: ./assets/img/publications/mib.png
+
