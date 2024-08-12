@@ -8,7 +8,7 @@ main:
     code: https://github.com/RongchangLi/ZSCAR_C2C
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/publications/c2c_eccv2024.png
-    # notes: Conditionally Accepted
+    notes: Oral
 
   - title: 'Perceiving Actions via Temporal Video Frame Pairs'
     authors:  <strong>Rong-Chang Li</strong>, Tianyang Xu, Xiao-jun Wu, Zhongwei Shen, Josef Kittler
