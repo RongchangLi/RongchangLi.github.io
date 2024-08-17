@@ -2,8 +2,8 @@ main:
 
   - title: 'C2C: Component-to-Composition Learning for Zero-Shot Compositional Action Recognition'
     authors: <strong>Rongchang Li</strong>, Zhenhua Feng, Tianyang Xu, Linze Li, Xiao-Jun Wu, Muhammad Awais, Sara Ahmed, Josef Kittler  
-    conference_short: ECCV
-    notes: Oral
+    conference_short: ECCV (Oral)
+    # notes: Oral
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/RongchangLi/ZSCAR_C2C
