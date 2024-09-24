@@ -5,7 +5,7 @@ main:
     conference_short: ECCV (Oral)
     # notes: Oral
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
-    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: https://arxiv.org/abs/2407.06113
     code: https://github.com/RongchangLi/ZSCAR_C2C
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/publications/c2c_eccv2024.png
