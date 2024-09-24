@@ -11,6 +11,13 @@ main:
     image: ./assets/img/publications/c2c_eccv2024.png
     # notes: Oral
 
+  - title: 'M-adapter: Multi-level Image-to-video Adaptation for Video Action Recognition'
+    authors: <strong>Rongchang Li</strong>, Tianyang Xu, Xiao-jun Wu, Linze Li, Xiao Yang, Zhongwei Shen, Josef Kittler  
+    conference_short: CVIU
+    conference: Computer Vision and Image Understanding <strong>(CVIU)</strong>, 2024.
+    image: ./assets/img/publications/madapter_cviu.png
+    
+
   - title: 'Perceiving Actions via Temporal Video Frame Pairs'
     authors:  <strong>Rong-Chang Li</strong>, Tianyang Xu, Xiao-jun Wu, Zhongwei Shen, Josef Kittler
     conference_short: TIST
