@@ -19,7 +19,7 @@ main:
     
 
   - title: 'Perceiving Actions via Temporal Video Frame Pairs'
-    authors:  <strong>Rong-Chang Li</strong>, Tianyang Xu, Xiao-jun Wu, Zhongwei Shen, Josef Kittler
+    authors:  <strong>Rongchang Li</strong>, Tianyang Xu, Xiao-jun Wu, Zhongwei Shen, Josef Kittler
     conference_short: TIST
     conference: ACM Transactions on Intelligent Systems and Technology  <strong>(TIST)</strong>, 2024.
     pdf: https://dl.acm.org/doi/abs/10.1145/3652611
@@ -27,7 +27,7 @@ main:
     image: ./assets/img/publications/nest_tist.png
 
   - title: 'Action probability calibration for efficient naturalistic driving action localization'
-    authors:  <strong>Rong-Chang Li</strong>, Cong Wu, Linze Li, Zhongwei Shen, Tianyang Xu, Xiao-jun Wu, Xi Li, Jiwen Lu, Josef Kittler
+    authors:  <strong>Rongchang Li</strong>, Cong Wu, Linze Li, Zhongwei Shen, Tianyang Xu, Xiao-jun Wu, Xi Li, Jiwen Lu, Josef Kittler
     conference_short: CVPRW
     conference: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition workshop <strong>(CVPRW)</strong>, 2023.
     pdf: https://openaccess.thecvf.com/content/CVPR2023W/AICity/papers/Li_Action_Probability_Calibration_for_Efficient_Naturalistic_Driving_Action_Localization_CVPRW_2023_paper.pdf
@@ -35,7 +35,7 @@ main:
     image: ./assets/img/publications/tal_cvprw.png
 
   - title: 'Dynamic information enhancement for video classification'
-    authors:  <strong>Rong-Chang Li</strong>, Xiao-Jun Wu, Cong Wu, Tianyang Xu, Josef Kittler
+    authors:  <strong>Rongchang Li</strong>, Xiao-Jun Wu, Cong Wu, Tianyang Xu, Josef Kittler
     conference_short: IVC
     conference: Image and Vision Computing <strong>(IVC)</strong>, 2021.
     pdf: https://www.sciencedirect.com/science/article/pii/S0262885621001499
