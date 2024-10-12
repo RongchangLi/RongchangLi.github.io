@@ -4,7 +4,7 @@ main:
     authors: <strong>Rongchang Li</strong>, Zhenhua Feng, Tianyang Xu, Linze Li, Xiao-Jun Wu, Muhammad Awais, Sara Ahmed, Josef Kittler  
     conference_short: ECCV (Oral)
     # notes: Oral
-    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+    conference: European Conference on Computer Vision <strong>(ECCV oral)</strong>, 2024.
     pdf: https://arxiv.org/abs/2407.06113
     code: https://github.com/RongchangLi/ZSCAR_C2C
     # bibtex: https://bib.yliu.me/MICCAI23.txt
